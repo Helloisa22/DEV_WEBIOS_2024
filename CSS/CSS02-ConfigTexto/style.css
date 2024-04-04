@@ -1,0 +1,30 @@
+/* Aqui tem um comentário (comentario em mais de uma linha */
+
+body{
+                        /* red,green, blue*/
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #4ee6d6;
+    font-size: 32px;
+}
+
+h1{
+    font-family: "Teko", Arial;
+    /* font-size: 100px; */
+    font-size: 2rem;
+}
+
+p{
+    font-family: "Josefin Sans", sans-serif;
+    
+}
+
+/* rem -- vai olhar para a body */
+/* em -- vai olhar para o pai mais proximo */
+
+/* 32px * 2 == 64px */
+
+/* Ajustar tamanho de imagem */
+img{
+    height: 1000px;  /* Altura */
+    width: 1000px;   /* Largura */
+}
