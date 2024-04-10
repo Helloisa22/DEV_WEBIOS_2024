@@ -1,0 +1,33 @@
+body{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+
+
+
+
+    /* background-color: #B0E0E6; */
+    /* background-image: url("https://picsum.photos/id/1033/600/400");
+    background-repeat: repeat-y; */
+    /* background-size: 100%; */
+    /* background-position: center; */
+}
+
+#primeiroParagrafo{
+    /* border-color: blue;
+    border-width: 2px;
+    border-style: dashed; */
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: aquamarine;
+    /* top right bottom left */
+}
+
+img{
+    border-radius: 10px;
+}
+
+/* #imagem{
+    border: 10px solid greenyellow;
+} */
