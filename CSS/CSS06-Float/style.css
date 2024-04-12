@@ -1,0 +1,16 @@
+img{
+    /* none left right */
+    width: 400px;
+}
+
+#paragrafo{
+    width: 100px;
+    float: left;
+    /* olha vou continuar na esquerda e vou limpar tudo que estiver na minha direita */
+}
+
+/* #paragrafo2{
+    width: 100px;
+    float: right;
+} */
+
