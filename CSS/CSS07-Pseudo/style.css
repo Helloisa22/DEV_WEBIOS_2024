@@ -1,0 +1,7 @@
+div, section, footer{
+    border: 2px solid black;
+}
+
+p:nth-child(2){
+    background-color: aqua;
+}
