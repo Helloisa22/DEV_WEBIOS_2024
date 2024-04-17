@@ -2,6 +2,51 @@ div, section, footer{
     border: 2px solid black;
 }
 
-p:nth-child(2){
+/* p:nth-child(2){
     background-color: aqua;
+} */
+
+
+#botao{
+    border: 1px solid white;
+    background-color: #FF6347;
+    border-radius: 5px;
+}
+
+#botao:hover{
+    color: white;
+    background-color: #E6E6FA;
+    font-size: 100px;
+}
+
+#paragrafoHover:hover{
+    background-color: #FF8C00;
+    color: aqua;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 50px;
+}
+
+
+
+#titulo2:hover{
+    font-family: "Jersey 10 Charted", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+#imagem:hover{
+    box-shadow: 10px 10px 10px #1E90FF;
+    width: 700px;
+    height: 700px;
+}
+
+/* pseudoElemento */
+#pseudo::before{
+    content: 'utilizando before - ';
+}
+
+#pseudo::after{
+    content: 'utilizando after - ';
 }
