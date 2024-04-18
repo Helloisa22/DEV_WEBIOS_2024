@@ -2,6 +2,8 @@ img{
     width: 700px;
 }
 
+/* rem / em / % */
+
 /* Quando a largura da tela for de 450px a imagens terão uma largura de 200px */
 
 /* Enquanto a largura maxima for de 450px a largura das imagens serão de 200px 
@@ -10,7 +12,36 @@ min-width / max-width
 
 /* 500px */
 @media (max-width: 450px) {
+    body{
+        background-color: aqua;
+    }
+
     img{
         width: 200px;
+    }
+
+    img:hover{
+        border: 1px solid black;
+        border-radius: 5px;
+        box-shadow: 10px 10px 10px black;
+    }
+}
+
+
+@media(min-width: 452px){
+
+    /* body - cor de fundo */
+    body{
+        background-color: rgb(212, 167, 253);
+    }
+    /* img - nova largura */
+    img{
+        width: 1100px;
+    }
+    /* img:hover - box-shadown e borde-radius diferentes  */
+    img:hover{
+        border: 5px solid rgb(246, 2, 2);
+        border-radius: 5px;
+        box-shadow: 10px 10px 10px rgb(40, 3, 251);
     }
 }
