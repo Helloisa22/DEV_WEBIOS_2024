@@ -95,3 +95,6 @@ sapatos.find((retornaFind) => {
 // console.clear();
 // console.log('Números:');
 // console.log(numeros);
+
+
+console.log("Teste spck editor ")
