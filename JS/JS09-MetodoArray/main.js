@@ -1,3 +1,10 @@
+
+
+console.log("spck editor teste")
+
+
+
+
 // metodo ForEach // insira 6 frutas
 let frutas = ['maçã', 'laranja', 'framboesa', 'melão', 'banana', 'tomate'];
 
