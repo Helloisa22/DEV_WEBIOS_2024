@@ -35,3 +35,11 @@ if(time == "Sao Paulo" || time == "São Paulo"){
     alert("Não sei qual é esse time")
 }
 
+
+
+let imgs = document.createElement("img");
+
+imgs.src = '/JS/JS11-DOM-Parte1/IMG-20240430-WA0001.jpg'
+
+document.body.appendChild(imgs)
+
