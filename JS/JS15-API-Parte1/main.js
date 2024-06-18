@@ -25,4 +25,4 @@ function getImage(e) {
 // stringify >> Pega um JSON e transforma em um objeto
 // JSON >> Transforma um objeto em formato JSON
 
-fetch(url).then(receber o JSON).then(Tratar o JSON e mostrar as informações em tela para o usuario).catch(catch é para tratar erros retornados pela API)
+// fetch(url).then(receber o JSON).then(Tratar o JSON e mostrar as informações em tela para o usuario).catch(catch é para tratar erros retornados pela API)
