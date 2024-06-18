@@ -48,3 +48,36 @@ cep, addEventListener('focusout', async () => {
     }
 })
 
+// focusout -- identifica quando o usuario clicar fora do campo de input
+
+// async -- para exercutar funções multiplas (Executar varias funções ao mesmo tempo)
+
+// try -- para tratar informações quando retornadas com sucesso
+
+// catch - para tratar informações quando retornadas com erro
+
+// test -- Faz a validação do valor de um campo com o regex
+
+// throw -- para lançar mensagens de erro se necessario
+
+// await -- aguarda a consulta ser feita na API para continuar com o fluxo do codigo
+
+// json --- para transformar um objeto em JSON
+
+// stringfy --- para tranformar um JSON em um OBJETO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
